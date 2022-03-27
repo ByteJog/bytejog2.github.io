@@ -1,12 +1,12 @@
-# [魅族内核团队博客](http://meizuosc.github.io)
+# [博客](http://bytejog.github.io)
 
 ## 快速上手
 
 0. 克隆仓库
 
-    首先去 [Fork](https://github.com/meizuosc/meizuosc.github.io#fork-destination-box) 到自己账户下，然后下载到本地。
+    首先去 [Fork](https://github.com/bytejog/bytejog.github.io#fork-destination-box) 到自己账户下，然后下载到本地。
 
-        $ git clone git@github.com:USER_NAME/meizuosc.github.io
+        $ git clone git@github.com:USER_NAME/bytejog.github.io
 
 1. 构建环境
 
