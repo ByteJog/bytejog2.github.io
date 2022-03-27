@@ -25,15 +25,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 魅族内核团队
-tagline: 致力于打造更好的 Linux 产品
+title : ByteJog's Blogs
+tagline: 每天积累一点点
 contacts_list: true
 author :
-  name : 魅族内核团队
-  email : patchwork@meizu.com
-  github : meizuosc
+  name : ByteJog
+  email : bytejog@163.com
+  github : bytejog
   twitter :
-  weibo : mzkernel
+  weibo : bytejog
   v2ex :
   googleplus :
   feedburner :
@@ -46,7 +46,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://kernel.meizu.com
+production_url : 
 cdn_url :
 
 projects: false
@@ -112,7 +112,7 @@ JB :
   comments :
     provider : duoshuo
     duoshuo :
-      short_name : mzkernel
+      short_name : bytejog
     disqus :
       short_name :
     livefyre :
