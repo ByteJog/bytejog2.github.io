@@ -25,7 +25,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ByteJog's Blogs
+title : 嵌入式Linux工作站
 tagline: 每天积累一点点
 contacts_list: true
 author :
